@@ -1,0 +1,50 @@
+name: Caxy Headless Starter
+type: profile
+description: 'Install with modules common to decoupled Drupal installations.'
+version: VERSION
+core: 8.x
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - admin_toolbar
+  - adminimal_admin_toolbar
+  - module_filter
+  - metatag
+  - token
+  - views_ui
+  - tour
+  - automated_cron
+themes:
+  - adminimal_theme
+  - bootstrap
+  - bartik
+  - seven
