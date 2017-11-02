@@ -1,7 +1,7 @@
 {
-    "name": "caxy/caxy_bootstrap_starter",
+    "name": "caxy/caxy_headless_starter",
     "type": "drupal-profile",
-    "description": "Caxy's SASS Bootstrap Starterkit profile",
+    "description": "Caxy's Headless/Decoupled Starterkit",
     "minimum-stability": "dev",
     "require": {
         "drupal/address": "^1.0",
