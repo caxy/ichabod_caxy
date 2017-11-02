@@ -48,6 +48,7 @@ dependencies:
   - basic_auth
   - rest
   - serialization
+  - cors
 themes:
   - adminimal_theme
   - bootstrap
