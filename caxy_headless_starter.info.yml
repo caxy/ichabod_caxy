@@ -44,7 +44,6 @@ dependencies:
   - views_ui
   - tour
   - automated_cron
-  - cors
   - hal
   - basic_auth
   - rest
