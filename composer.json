@@ -43,7 +43,8 @@
         "drupal/adminimal_admin_toolbar": "^1.5",
         "drupal/module_filter": "^3.0",
         "drupal/cors": "^1.0",
-        "drupal/facets": "1.x-dev"
+        "drupal/facets": "1.x-dev",
+        "drupal/restui": "1.x-dev"
     },
     "replace": {
         "michelf/php-markdown": "^1.6",
