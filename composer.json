@@ -1,5 +1,5 @@
 {
-    "name": "caxy/caxy_headless_starter",
+    "name": "caxy/ichabod_caxy",
     "type": "drupal-profile",
     "description": "Caxy's Headless/Decoupled Starterkit",
     "minimum-stability": "dev",
